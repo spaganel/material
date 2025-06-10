@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: ASO Materials 
+site_url: https://spaganel.github.io/material/
+theme:
+  name: material
